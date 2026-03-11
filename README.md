@@ -71,24 +71,25 @@ def train_model(model, train_loader,criterion,optimizer,epochs):
 
 ## Dataset Information
 
-<img width="1299" height="273" alt="image" src="https://github.com/user-attachments/assets/a1f2691f-e21e-4477-a134-e607d58f8787" />
+<img width="1388" height="286" alt="image" src="https://github.com/user-attachments/assets/2cf35d5d-9dd0-47d8-9e56-e9b7d5baddeb" />
 
 
 ## OUTPUT
 
 ### Confusion Matrix
 
-<img width="698" height="577" alt="image" src="https://github.com/user-attachments/assets/71e9819d-28f2-4a71-9ee3-3d69c6081fa3" />
+<img width="714" height="595" alt="image" src="https://github.com/user-attachments/assets/c30aef29-b770-4946-8db4-1a4a78342f88" />
 
 
 ### Classification Report
 
-![WhatsApp Image 2026-02-09 at 10 58 11 AM](https://github.com/user-attachments/assets/ad36f5d3-b42b-463d-a684-b35a026fabcb)
+<img width="717" height="441" alt="image" src="https://github.com/user-attachments/assets/ca096073-9ab7-4432-93bc-e17b237aea13" />
 
 
 ### New Sample Data Prediction
 
-![WhatsApp Image 2026-02-09 at 11 08 27 AM](https://github.com/user-attachments/assets/84f8aacc-11b4-4b3b-87f4-1d1a0137be01)
+<img width="565" height="135" alt="image" src="https://github.com/user-attachments/assets/58aabc68-fd75-4a75-b37a-8c76e1ff14b1" />
+
 
 ## RESULT
 The neural network model was successfully built and trained to handle classification tasks.
